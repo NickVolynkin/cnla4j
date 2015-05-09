@@ -1,0 +1,10 @@
+*.DS_Store
+target/
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+/*.iml
+## Directory-based project format:
+.idea/
+out/
+## File-based project format:
+*.ipr
+*.iws
