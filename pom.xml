@@ -35,6 +35,12 @@
             <version>${org.apache.commons.math3.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.jblas</groupId>
+            <artifactId>jblas</artifactId>
+            <version>1.2.4</version>
+        </dependency>
+
         <!--JUnit testing-->
         <dependency>
             <groupId>junit</groupId>
